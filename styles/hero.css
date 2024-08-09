@@ -138,7 +138,7 @@
 
 }
 
-@keyFrames slideIn {
+@keyframes slideIn {
 
   50% {
     transform: translateX(-20px);
